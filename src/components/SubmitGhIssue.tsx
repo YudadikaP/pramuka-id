@@ -4,12 +4,12 @@ function SubmitGhIssue() {
       Tidak menemukan yang kamu cari? Kamu bisa membuat permintaan penambahan data baru melalui
       {` `}
       <a
-        href="https://github.com/mazipan/pramuka.online/issues/new"
+        href="https://instagram.com/yuda.dika_"
         target="_blank"
         rel="noopenner noreferrer"
         className="text-link"
       >
-        Github issue
+        DM IG
       </a>
     </div>
   )
